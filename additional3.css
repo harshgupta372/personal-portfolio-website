@@ -1,0 +1,22 @@
+@media (max-width: 768px) and (min-width: 320px) {
+    /* Styles for images on smartphones */
+    #reactr{
+      max-width: 100%; /* Ensure images scale to fit phone width */
+      height: auto;  /* Maintain image aspect ratio */
+    }
+  }
+  
+@media (max-width: 768px) and (min-width: 320px) {
+    /* Styles for images on smartphones */
+    #wordman{
+      max-width: 100%; /* Ensure images scale to fit phone width */
+      height: auto;  /* Maintain image aspect ratio */
+    }
+  }
+@media (max-width: 768px) and (min-width: 320px) {
+    /* Styles for images on smartphones */
+    #reactmobile{
+      max-width: 100%; /* Ensure images scale to fit phone width */
+      height: auto;  /* Maintain image aspect ratio */
+    }
+  }

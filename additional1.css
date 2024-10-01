@@ -1,0 +1,24 @@
+/* Target a range of smartphone screen sizes */
+@media (max-width: 768px) and (min-width: 320px) {
+    /* Styles for images on smartphones */
+    #real3 {
+      max-width: 100%; /* Ensure images scale to fit phone width */
+      height: auto;  /* Maintain image aspect ratio */
+    }
+  }
+  
+@media (max-width: 768px) and (min-width: 320px) {
+    /* Styles for images on smartphones */
+    #real2 {
+      max-width: 100%; /* Ensure images scale to fit phone width */
+      height: auto;  /* Maintain image aspect ratio */
+    }
+  }
+@media (max-width: 768px) and (min-width: 320px) {
+    /* Styles for images on smartphones */
+    #real1 {
+      max-width: 100%; /* Ensure images scale to fit phone width */
+      height: auto;  /* Maintain image aspect ratio */
+    }
+  }
+  
